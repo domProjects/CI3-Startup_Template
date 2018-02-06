@@ -27,7 +27,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $config['host_dev'] = array('localhost', '127.0.0.1', '::1');
 
 // Fill in the file of your project here when you develop locally.
-$host_dev = 'CI-Startup_Template_V3';
+$host_dev = 'CI3-Startup_Template';
 
 // Fill in the domain name here when your project is online.
 // Example : www.johndoe.com

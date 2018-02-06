@@ -1,4 +1,4 @@
-# CI-Startup_Template_V3
+# CI3-Startup_Template
 Using the CodeIgniter 3 framework with a ready-to-use configuration
 
 ## Server Requirements
@@ -10,12 +10,12 @@ It should work on 5.4.8 as well, but we strongly advise you NOT to run such old 
 ## Installation
 
 1. Unzip the package.
-2. Upload the `CI-Startup_Template_V3` folders and files to your server. Normally the index.php file will be at your root.
+2. Upload the `CI3-Startup_Template` folders and files to your server. Normally the index.php file will be at your root.
 3. Open the `application/config/config.php` file with a text editor and set your base URL:
 
 ```
 // Fill in the file of your project here when you develop locally.
-$host_dev = 'CI-Startup_Template_V3';
+$host_dev = 'CI3-Startup_Template';
 
 // Fill in the domain name here when your project is online.
 // Example : www.johndoe.com
