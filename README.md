@@ -1,5 +1,5 @@
 # CI3-Startup_Template
-Using the CodeIgniter 3 framework with a ready-to-use configuration
+Using the CodeIgniter 3.1.10 framework with a ready-to-use configuration
 
 ## Server Requirements
 
